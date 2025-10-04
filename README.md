@@ -55,6 +55,7 @@ Although the assignment mentioned SAM 2, its limited public availability led to 
 Repository Structure:
 
 📂 Lab-Assignment/
+
 ├── q1.ipynb     # Vision Transformer on CIFAR-10
 
 ├── q2.ipynb     # Text-Driven Image Segmentation using SAM
