@@ -56,7 +56,9 @@ Repository Structure:
 
 📂 Lab-Assignment/
 ├── q1.ipynb     # Vision Transformer on CIFAR-10
+
 ├── q2.ipynb     # Text-Driven Image Segmentation using SAM
+
 └── README.md    # Project Documentation
 
 Acknowledgements:
