@@ -18,7 +18,7 @@ Embedding Dimension	384
 Optimizer	AdamW with CosineAnnealingLR
 Results
 Model	Test Accuracy
-ViT (15 Epochs)	XX.XX%
+ViT (15 Epochs)	70.68%
 
 
 Q2: Text-Driven Image Segmentation with SAM
